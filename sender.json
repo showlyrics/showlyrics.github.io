@@ -1,1 +1,9 @@
-404: Not Found
+{
+  "latest_version": "1.1.0",
+  "min_version": "1.1.0",
+  "beta_version": "",
+  "download_url": "https://drive.google.com/uc?id=1mapxe3fWPxJ1Xkk2KCsfcn4bUZZ5USLW",
+  "beta_url": "",
+  "changelog": "t",
+  "beta_changelog": ""
+}

@@ -1,8 +1,8 @@
 {
   "version": "1.3.5-2",
-  "generated_at": "2026-08-05T11:24:46.139934+00:00",
-  "static_fingerprint": "7c357526007b942de551917b09fc7a410c5e1373a45a9e28ff762856b957a1c7",
-  "templates_fingerprint": "c9c786d97fc613e91f0b42c5d0f09986874de44384b18f1020fe1a0ae9517b5f",
-  "folder_fingerprint": "2dfc0fe596fed84e94a43ce235b1c1993749f59d862279fb171fb784247bea92",
-  "manifest_sig": "ba0c525c8d0438a64fced12218ef017ff52b518773ed0de8da94d7406e70b000"
+  "generated_at": "2026-08-05T11:41:16.461623+00:00",
+  "static_fingerprint": "c37debda25f9f10bf9e7f05b1d86eb6fec58e101b3f8c48bb07354f8b0649746",
+  "templates_fingerprint": "ec4ea20a0e04b6c924cec04b3e023609c953f7e4eb0c62093e88d3579f318c1d",
+  "folder_fingerprint": "4ae93a9063b86005b4cc6df3f3ff8ce904c5016de9c5f4fd8dd85d36bb51307c",
+  "manifest_sig": "32640e2d7344d9b21670e564540bcc3ee4dc7190b1c7270bbeb4423a96c54c81"
 }

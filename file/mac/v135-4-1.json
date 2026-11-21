@@ -1,1 +1,8 @@
-
+{
+  "version": "1.35.4.1",
+  "generated_at": "2026-11-20T16:42:41.335938+00:00",
+  "static_fingerprint": "619d4e88a0454b968d9ce430c0c1c3e7f79cf9c36100f408cef7971c89a528d4",
+  "templates_fingerprint": "0067e3f5235f91019020d2ef350a6daefb769085356bd10ca0b47787352f67ce",
+  "folder_fingerprint": "2fd961052b0fdcdc0ed99d1f720880b605deb4065658ce500c50ccdab0df51b1",
+  "manifest_sig": "5e6d533742a451448c5fecebc801aa917a783f1f0a6234d19aebe1573bbf3cc7"
+}
